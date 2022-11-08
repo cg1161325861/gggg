@@ -1,0 +1,419 @@
+{
+	“网站”：[{
+		“关键”：“py_kunyu77”，
+		"name": "酷云77",
+		“类型”：3，
+		"api": "py_kunyu77",
+		“可搜索”：0，
+		“快速搜索”：0，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_kunyu77.py”
+	}, {
+		“关键”：“py_bilibili”，
+		“名称”：“哔哩”，
+		“类型”：3，
+		"api": "py_bilibili",
+		“可搜索”：0，
+		“快速搜索”：0，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilibili.py”
+	}, {
+		“关键”：“py_bilivd”，
+		"name": "B站(带搜索)",
+		“类型”：3，
+		“api”：“py_bilivd”，
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilivd.py”
+	},{
+		“关键”：“py_3qu”，
+		“名称”：“3QU”，
+		“类型”：3，
+		"api": "py_3qu",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_3qu.py”
+	},{
+		“关键”：“py_cctv”，
+		“名称”：“央视”，
+		“类型”：3，
+		“api”：“py_cctv”，
+		“可搜索”：0，
+		“快速搜索”：0，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv.py”
+	},{
+		“关键”：“py_cctv_full”，
+		"name": "央视大全",
+		“类型”：3，
+		“api”：“py_cctv_full”，
+		“可搜索”：0，
+		“快速搜索”：0，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cctv_full.py”
+	},{
+		“关键”：“py_czspp”，
+		"name": "厂长",
+		“类型”：3，
+		“api”：“py_czspp”，
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_czspp.py”
+	},{
+		“关键”：“py_cyys”，
+		"name": "创艺",
+		“类型”：3，
+		“api”：“py_cyys”，
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cyys.py”
+	},{
+		“关键”：“py_zxzj”，
+		"name": "在线之家",
+		“类型”：3，
+		"api": "py_zxzj",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zxzj.py”
+	},{
+		“关键”：“py_voflix”，
+		“名称”：“Voflix”，
+		“类型”：3，
+		“api”：“py_voflix”，
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_voflix.py”
+	}, {
+		“关键”：“py_bilimd”，
+		"name": "B站影视",
+		“类型”：3，
+		"api": "py_bilimd",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_bilimd.py”
+	}, {
+		“关键”：“py_gimytv”，
+		"name": "剧迷",
+		“类型”：3，
+		“api”：“py_gimytv”，
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gimytv.py”
+	}, {
+		“关键”：“py_genmov”，
+		"name": "跟剧",
+		“类型”：3，
+		“api”：“py_genmov”，
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_genmov.py”
+	}, {
+		"key": "py_huya",
+		"name": "虎牙",
+		“类型”：3，
+		"api": "py_huya",
+		“可搜索”：0，
+		“快速搜索”：0，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_huya.py”
+	}, {
+		"key": "py_douyu",
+		"name": "斗鱼",
+		“类型”：3，
+		"api": "py_douyu",
+		“可搜索”：0，
+		“快速搜索”：0，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_douyu.py”
+	}, {
+		“关键”：“py_cokemv”，
+		“名称”：“可乐”，
+		“类型”：3，
+		“api”：“py_cokemv”，
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_cokemv.py”
+	}, {
+		“关键”：“py_xmaomi”，
+		“名称”：“猫咪”，
+		“类型”：3，
+		"api": "py_xmaomi",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：1，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_xmaomi.py”
+	}, {
+		“关键”：“py_gitcafe”，
+		"name": "小纸条",
+		“类型”：3，
+		"api": "py_gitcafe",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：0，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_gitcafe.py”
+	}, {
+		“关键”：“py_yiso”，
+		"name": "易搜",
+		“类型”：3，
+		"api": "py_yiso",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：0，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_yiso.py”
+	}, {
+		“关键”：“py_zhaozy”，
+		"name": "寻找资源",
+		“类型”：3，
+		"api": "py_zhaozy",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：0，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_zhaozy.py”
+	}, {
+		“关键”：“py_alist”，
+		“名称”：“阿里斯特”，
+		“类型”：3，
+		"api": "py_alist",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：0，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_alist.py”
+	}, {
+		“关键”：“py_pansou”，
+		"name": "盘搜",
+		“类型”：3，
+		"api": "py_pansou",
+		“可搜索”：1，
+		“快速搜索”：1，
+		“可过滤”：0，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_pansou.py”
+	}, {
+		"key": "push_agent",
+		“名称”：“阿里”，
+		“类型”：3，
+		“api”：“py_ali”，
+		“可搜索”：0，
+		“快速搜索”：0，
+		“可过滤”：0，
+		“ext”：“https://raw.githubusercontent.com/UndCover/PyramidStore/main/plugin/py_ali.py”
+	}],
+	“解析”：[{
+		"name": "默认选项",
+		“类型”：3，
+		“网址”：“演示”
+	}, {
+		“名称”：“01”，
+		“类型”：1，
+		"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=",
+		“分机”：{
+			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905"],
+			“标题”：{
+				“用户代理”：“Dart/2.14 (dart:io)”
+			}
+		}
+	}, {
+		"name": "网络教室02",
+		“类型”：1，
+		"url": "https://json.pangujiexi.com/json.php?url=",
+		“分机”：{
+			“flag”：[“优酷”、“优酷”、“qq”、“腾讯”、“qiyi”、“奇艺”、“奇艺”]
+		}
+	}, {
+		"name": "网络教室03",
+		“类型”：1，
+		"url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+		“分机”：{
+			“标志”：[“Itnb”，“wuduzy”]
+		}
+	}, {
+		"name": "网络网络04",
+		“类型”：1，
+		"url": "http://api.vip123kan.vip/?url=",
+		“分机”：{
+			“flag”：[“优酷”、“优酷”、“mgtv”、“芒果”、“qq”、“腾讯”、“qiyi”、“爱艺奇”、“qq”、“xigua”、“奇艺” "]
+		}
+	}, {
+		"name": "网络教室05",
+		“类型”：1，
+		"url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
+		“分机”：{
+			“flag”：[“qq”、“腾讯”、“qiyi”、“爱奇艺”、“奇艺”、“优酷”、“优酷”、“搜狐”、“芒果”、“mgtv”、“西瓜” ”、“wuduzy”、“bilibili”、“pptv”、“leduo”、“Clk4”、“哔哩”、“人人米”、“ltnb”、“rx”]
+		}
+	}, {
+		"name": "网络教室06",
+		“类型”：1，
+		"url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
+		“分机”：{
+			“flag”：[“qq”、“腾讯”、“qiyi”、“爱奇艺”、“奇艺”、“优酷”、“优酷”、“搜狐”、“芒果”、“mgtv”、“西瓜” ”、“wuduzy”、“bilibili”、“pptv”、“leduo”、“Clk4”、“哔哩”、“人人米”、“ltnb”、“rx”]
+		}
+	}, {
+		"name": "网络教室07",
+		“类型”：1，
+		"url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
+		“分机”：{
+			“标志”：[“ltnb”]
+		}
+	}, {
+		"name": "网络网络08",
+		“类型”：1，
+		"url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
+		“分机”：{
+			“flag”：[“优酷”、“qq”、“mgtv”、“bilibili”、“wasu”、“xigua”、“renrenmi”、“优酷”、“芒果”]
+		}
+	}, {
+		"name": "网络网络10",
+		“类型”：1，
+		"url": "https://json.5lp.net/json.php?url=",
+		“分机”：{
+			“flag”：[“qq”、“腾讯”、“qiyi”、“爱奇艺”、“奇艺”、“优酷”、“优酷”、“mgtv”、“芒果”、“人人米”、“Itnb” "]
+		}
+	}],
+	“生活”：[{
+		“组”：“重定向”，
+		“频道”：[{
+			“名称”：“生活”，
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3R2Lmp0aG4uY24vbGl2ZXMvbGl2ZV9wbHVzLnR4dA=="]
+		}]
+	}],
+	“flags”：[“优酷”、“qq”、“爱奇艺”、“奇艺”、“乐视”、“搜狐”、“乐视”、“土豆”、“pptv”、“mgtv”、“wasu”、“ bilibili、乐多、fq3、fq4、雪人、多多、多多、妙党、妙党2、妙党3、人人米、优酷、芒果, “腾讯”, “爱奇艺”, “奇艺”, “ltnb”, “rx”, “CL4K”, “xfyun”, “wuduzy”],
+	“伊克”：[{
+		"group": "软解码",
+		“选项”： [{
+			“类别”：4，
+			“名称”：“opensles”，
+			“价值”：“0”
+		}, {
+			“类别”：4，
+			“名称”：“覆盖格式”，
+			“价值”：“842225234”
+		}, {
+			“类别”：4，
+			“名称”：“帧丢弃”，
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			“名称”：“声音触感”，
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			"name": "开始准备",
+			“价值”：“1”
+		}, {
+			“类别”：1，
+			"name": "http-detect-range-support",
+			“价值”：“0”
+		}, {
+			“类别”：1，
+			“名称”：“标志”，
+			“价值”：“快速搜索”
+		}, {
+			“类别”：2，
+			“名称”：“skip_loop_filter”，
+			“价值”：“48”
+		}, {
+			“类别”：4，
+			“名称”：“重新连接”，
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			“名称”：“启用准确搜索”，
+			“价值”：“0”
+		}, {
+			“类别”：4，
+			“名称”：“媒体编解码器”，
+			“价值”：“0”
+		}, {
+			“类别”：4，
+			"name": "mediacodec-auto-rotate",
+			“价值”：“0”
+		}, {
+			“类别”：4，
+			"name": "mediacodec-handle-resolution-change",
+			“价值”：“0”
+		}, {
+			“类别”：4，
+			“名称”：“媒体编解码器-hevc”，
+			“价值”：“0”
+		}, {
+			“类别”：1，
+			“名称”：“dns_cache_timeout”，
+			“价值”：“600000000”
+		}]
+	}, {
+		“组”：“硬解码”，
+		“选项”： [{
+			“类别”：4，
+			“名称”：“opensles”，
+			“价值”：“0”
+		}, {
+			“类别”：4，
+			“名称”：“覆盖格式”，
+			“价值”：“842225234”
+		}, {
+			“类别”：4，
+			“名称”：“帧丢弃”，
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			“名称”：“声音触感”，
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			"name": "开始准备",
+			“价值”：“1”
+		}, {
+			“类别”：1，
+			"name": "http-detect-range-support",
+			“价值”：“0”
+		}, {
+			“类别”：1，
+			“名称”：“标志”，
+			“价值”：“快速搜索”
+		}, {
+			“类别”：2，
+			“名称”：“skip_loop_filter”，
+			“价值”：“48”
+		}, {
+			“类别”：4，
+			“名称”：“重新连接”，
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			“名称”：“启用准确搜索”，
+			“价值”：“0”
+		}, {
+			“类别”：4，
+			“名称”：“媒体编解码器”，
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			"name": "mediacodec-auto-rotate",
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			"name": "mediacodec-handle-resolution-change",
+			“价值”：“1”
+		}, {
+			“类别”：4，
+			“名称”：“媒体编解码器-hevc”，
+			“价值”：“1”
+		}, {
+			“类别”：1，
+			“名称”：“dns_cache_timeout”，
+			“价值”：“600000000”
+		}]
+	}],
+	“广告”：[“mimg.0c1q0l.cn”、“www.googletagmanager.com”、“www.google-analytics.com”、“mc.usihnbcq.cn”、“mg.g1mm3d.cn”、“mscs. svaeuzh.cn”、“cnzz.hhttm.top”、“tp.vinuxhome.com”、“cnzz.mmstat.com”、“www.baihuillq.com”、“s23.cnzz.com”、“z3.cnzz. com”、“c.cnzz.com”、“stj.v1vo.top”、“z12.cnzz.com”、“img.mosflower.cn”、“tips.gamevvip.com”、“ehwe.yhdtns.com” , “xdn.cqqc3.com”, “www.jixunkyy.cn”, “sp.chemacid.cn”, “hm.baidu.com”, “s9.cnzz.com”, “z6.cnzz.com”, “ um.cavuc.com”、“mav.mavuz.com”、“wofwk.aoidf3.com”、“z5.cnzz.com”、“xc.hubeijieshikj.cn”、“tj.tianwenhu.com”, “xg.gars57.cn”, “k.jinxiuzhilv.com”, “cdn.bootcss.com”, “ppl.xunzhuo123.com”, “xomk.jiangjunmh.top”, “img.xunzhuo123. com”、“z1.cnzz.com”、“s13.cnzz.com”、“xg.huataisangao.cn”、“z7.cnzz.com”、“xg.huataisangao.cn”、“z2.cnzz.com” , “s96.cnzz.com”, “q11.cnzz.com”, “thy.dacedsfa.cn”, “xg.whsbpw.cn”, “s19.cnzz.com”, “z8.cnzz.com”, “ s4.cnzz.com”、“f5w.as12df.top”、“ae01.alicdn.com”、“www.92424.cn”、“k.wudejia.com”、“vivovip.mmszxc.top”、“qiu. xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"],cdn.bootcss.com”、“ppl.xunzhuo123.com”、“xomk.jiangjunmh.top”、“img.xunzhuo123.com”、“z1.cnzz.com”、“s13.cnzz.com”、“xg. huataisangao.cn”, “z7.cnzz.com”, “xg.huataisangao.cn”, “z2.cnzz.com”, “s96.cnzz.com”, “q11.cnzz.com”, “thy.dacedsfa. cn”、“xg.whsbpw.cn”、“s19.cnzz.com”、“z8.cnzz.com”、“s4.cnzz.com”、“f5w.as12df.top”、“ae01.alicdn.com” , “www.92424.cn”, “k.wudejia.com”, “vivovip.mmszxc.top”, “qiu.xixiqiu.com”, “cdnjs.hnfenxun.com”, “cms.qdwght.com”],cdn.bootcss.com”、“ppl.xunzhuo123.com”、“xomk.jiangjunmh.top”、“img.xunzhuo123.com”、“z1.cnzz.com”、“s13.cnzz.com”、“xg. huataisangao.cn”, “z7.cnzz.com”, “xg.huataisangao.cn”, “z2.cnzz.com”, “s96.cnzz.com”, “q11.cnzz.com”, “thy.dacedsfa. cn”、“xg.whsbpw.cn”、“s19.cnzz.com”、“z8.cnzz.com”、“s4.cnzz.com”、“f5w.as12df.top”、“ae01.alicdn.com” , “www.92424.cn”, “k.wudejia.com”, “vivovip.mmszxc.top”, “qiu.xixiqiu.com”, “cdnjs.hnfenxun.com”, “cms.qdwght.com”],com”、“xg.huataisangao.cn”、“z7.cnzz.com”、“xg.huataisangao.cn”、“z2.cnzz.com”、“s96.cnzz.com”、“q11.cnzz.com” , “thy.dacedsfa.cn”, “xg.whsbpw.cn”, “s19.cnzz.com”, “z8.cnzz.com”, “s4.cnzz.com”, “f5w.as12df.top”, “ ae01.alicdn.com”, “www.92424.cn”, “k.wudejia.com”, “vivovip.mmszxc.top”, “qiu.xixiqiu.com”, “cdnjs.hnfenxun.com”, “cms. qdwght.com"],com”、“xg.huataisangao.cn”、“z7.cnzz.com”、“xg.huataisangao.cn”、“z2.cnzz.com”、“s96.cnzz.com”、“q11.cnzz.com” , “thy.dacedsfa.cn”, “xg.whsbpw.cn”, “s19.cnzz.com”, “z8.cnzz.com”, “s4.cnzz.com”, “f5w.as12df.top”, “ ae01.alicdn.com”, “www.92424.cn”, “k.wudejia.com”, “vivovip.mmszxc.top”, “qiu.xixiqiu.com”, “cdnjs.hnfenxun.com”, “cms. qdwght.com"],as12df.top”, “ae01.alicdn.com”, “www.92424.cn”, “k.wudejia.com”, “vivovip.mmszxc.top”, “qiu.xixiqiu.com”, “cdnjs.hnfenxun. com", "cms.qdwght.com"],as12df.top”, “ae01.alicdn.com”, “www.92424.cn”, “k.wudejia.com”, “vivovip.mmszxc.top”, “qiu.xixiqiu.com”, “cdnjs.hnfenxun. com", "cms.qdwght.com"],
+	"壁纸": "https://picsum.photos/1080",
+	“蜘蛛”： ””
+}
